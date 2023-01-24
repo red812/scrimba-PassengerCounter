@@ -1,2 +1,9 @@
-# scrimba-psngrcounter
-From the Scrimba javascript course. This is a passenger counter, with simple javascript and some DOM manipulation.
+# Scrimba Passenger Counter
+From the Scrimba Javascript Course. 
+
+This is a passenger counter, with basic javascript and some DOM manipulation.
+
+Topics covered
+* Variables
+* Basic CSS Styling
+* Updating DOM through Javascript
