@@ -1,6 +1,8 @@
 
 .body {
   font-family: sans-serif;
+  background-image: url("https://unsplash.com/photos/dmH3NWhYTHQ");
+  background-size: cover;
 }
 
 .container {
